@@ -1,7 +1,7 @@
   name: push-workflow
   on: push #push 이벤트가 발생할 때 workflow 실행
 
-  job: 
+  jobs: 
     push-job:
       runs-on: ubuntu-latest
       steps:
