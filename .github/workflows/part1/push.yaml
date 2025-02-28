@@ -1,4 +1,4 @@
-  name: push-workflow 1
+  name: push-workflow 2
   on: push #push 이벤트가 발생할 때 workflow 실행
 
   jobs: # 잡 필수
